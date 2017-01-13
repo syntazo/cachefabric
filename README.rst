@@ -22,7 +22,7 @@ Overview
 
 .. |travis| image:: https://travis-ci.org/thanos/cachefabric.svg?branch=master
     :alt: Travis-CI Build Status
-    :target: https://travis-ci.org/thanos/cachefabric
+    :target: https://travis-ci.org/syntazo/cachefabric
 
 .. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/thanos/cachefabric?branch=master&svg=true
     :alt: AppVeyor Build Status
