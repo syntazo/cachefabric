@@ -42,9 +42,9 @@ Overview
     :alt: Coverage Status  
     :target: https://codecov.io/gh/syntazo/cachefabric
 
-.. |landscape| image:: https://landscape.io/github/thanos/cachefabric/master/landscape.svg?style=flat
-    :target: https://landscape.io/github/thanos/cachefabric/master
-    :alt: Code Quality Status
+.. |landscape| image:: https://landscape.io/github/syntazo/cachefabric/master/landscape.svg?style=flat
+   :target: https://landscape.io/github/syntazo/cachefabric/master
+   :alt: Code Health    
 
 .. |codacy| image:: https://img.shields.io/codacy/REPLACE_WITH_PROJECT_ID.svg?style=flat
     :target: https://www.codacy.com/app/thanos/cachefabric
