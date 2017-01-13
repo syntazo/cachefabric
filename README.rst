@@ -28,7 +28,6 @@ Overview
 .. |coveralls| image:: https://coveralls.io/repos/github/syntazo/cachefabric/badge.svg?branch=master
     :alt: Coverage Status
     :target: https://coveralls.io/github/syntazo/cachefabric?branch=master
-    
 
 
 .. |codecov| image:: https://codecov.io/gh/syntazo/cachefabric/branch/master/graph/badge.svg
@@ -43,9 +42,9 @@ Overview
     :target: https://www.codacy.com/app/thanos/cachefabric
     :alt: Codacy Code Quality Status
 
-.. |codeclimate| image:: https://codeclimate.com/github/thanos/cachefabric/badges/gpa.svg
-   :target: https://codeclimate.com/github/thanos/cachefabric
-   :alt: CodeClimate Quality Status
+.. |codeclimate| image:: https://codeclimate.com/github/syntazo/cachefabric/badges/gpa.svg
+   :target: https://codeclimate.com/github/syntazo/cachefabric
+   :alt: Code Climate
 
 .. |version| image:: https://img.shields.io/pypi/v/cachefabric.svg?style=flat
     :alt: PyPI Package latest release
