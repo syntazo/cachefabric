@@ -16,8 +16,8 @@ Overview
     * - package
       - |version| |downloads| |wheel| |supported-versions| |supported-implementations|
 
-.. |docs| image:: https://readthedocs.org/projects/cachefabric/badge/?style=flat
-    :target: https://readthedocs.org/projects/cachefabric
+.. |docs| image:: https://readthedocs.org/projects/cachefabric/badge/?version=latest
+    :target: http://cachefabric.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
 .. |travis| image:: https://travis-ci.org/syntazo/cachefabric.svg?branch=master
