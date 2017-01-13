@@ -32,9 +32,11 @@ Overview
     :alt: Requirements Status
     :target: https://requires.io/github/thanos/cachefabric/requirements/?branch=master
 
-.. |coveralls| image:: https://coveralls.io/repos/thanos/cachefabric/badge.svg?branch=master&service=github
+.. |coveralls| image:: https://coveralls.io/repos/github/syntazo/cachefabric/badge.svg?branch=master
     :alt: Coverage Status
-    :target: https://coveralls.io/r/thanos/cachefabric
+    :target: https://coveralls.io/github/syntazo/cachefabric?branch=master
+    
+
 
 .. |codecov| image:: https://codecov.io/gh/syntazo/cachefabric/branch/master/graph/badge.svg
     :alt: Coverage Status  
