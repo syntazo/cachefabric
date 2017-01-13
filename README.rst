@@ -38,10 +38,11 @@ Overview
    :target: https://landscape.io/github/syntazo/cachefabric/master
    :alt: Code Health    
 
-.. |codacy| image:: https://img.shields.io/codacy/REPLACE_WITH_PROJECT_ID.svg?style=flat
-    :target: https://www.codacy.com/app/thanos/cachefabric
-    :alt: Codacy Code Quality Status
-
+.. |codacy| image:: https://api.codacy.com/project/badge/Grade/0a935a0e64764ac5bee4c4f73d405e95    
+    :target: https://www.codacy.com/app/thanos/cachefabric?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=syntazo/cachefabric&amp;utm_campaign=Badge_Grade
+    :alt Codacy Tests
+    
+    
 .. |codeclimate| image:: https://codeclimate.com/github/syntazo/cachefabric/badges/gpa.svg
    :target: https://codeclimate.com/github/syntazo/cachefabric
    :alt: Code Climate
