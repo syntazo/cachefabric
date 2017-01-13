@@ -36,7 +36,7 @@ Overview
     :alt: Coverage Status
     :target: https://coveralls.io/r/thanos/cachefabric
 
-.. image:: https://codecov.io/gh/syntazo/cachefabric/branch/master/graph/badge.svg
+.. |codecov| image:: https://codecov.io/gh/syntazo/cachefabric/branch/master/graph/badge.svg
     :alt: Coverage Status  
     :target: https://codecov.io/gh/syntazo/cachefabric
 
