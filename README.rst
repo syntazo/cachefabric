@@ -10,9 +10,9 @@ Overview
     * - docs
       - |docs|
     * - tests
-      - | |travis| |appveyor| |requires|
+      - | |travis| 
         | |coveralls| |codecov|
-        | |landscape| |scrutinizer| |codacy| |codeclimate|
+        | |landscape|  |codacy| |codeclimate|
     * - package
       - |version| |downloads| |wheel| |supported-versions| |supported-implementations|
 
@@ -24,13 +24,6 @@ Overview
     :alt: Travis-CI Build Status
     :target: https://travis-ci.org/syntazo/cachefabric
 
-.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/thanos/cachefabric?branch=master&svg=true
-    :alt: AppVeyor Build Status
-    :target: https://ci.appveyor.com/project/thanos/cachefabric
-
-.. |requires| image:: https://requires.io/github/thanos/cachefabric/requirements.svg?branch=master
-    :alt: Requirements Status
-    :target: https://requires.io/github/thanos/cachefabric/requirements/?branch=master
 
 .. |coveralls| image:: https://coveralls.io/repos/github/syntazo/cachefabric/badge.svg?branch=master
     :alt: Coverage Status
@@ -74,9 +67,7 @@ Overview
     :alt: Supported implementations
     :target: https://pypi.python.org/pypi/cachefabric
 
-.. |scrutinizer| image:: https://img.shields.io/scrutinizer/g/thanos/cachefabric/master.svg?style=flat
-    :alt: Scrutinizer Status
-    :target: https://scrutinizer-ci.com/g/thanos/cachefabric/
+
 
 
 .. end-badges
