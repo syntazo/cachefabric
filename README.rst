@@ -20,7 +20,7 @@ Overview
     :target: https://readthedocs.org/projects/cachefabric
     :alt: Documentation Status
 
-.. |travis| image:: https://travis-ci.org/thanos/cachefabric.svg?branch=master
+.. |travis| image:: https://travis-ci.org/syntazo/cachefabric.svg?branch=master
     :alt: Travis-CI Build Status
     :target: https://travis-ci.org/syntazo/cachefabric
 
